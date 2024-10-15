@@ -185,14 +185,17 @@ a {
 }
 
 #logo {
-    width: 66px;
-    height: 66px;
+    display: block;
+    width: 250px;
+    height: 80px;
     margin-right: 2vw;
+
+    margin: auto 2vw auto auto;
 
     float: left;
 }
 
-#logo, img[src^="images/GDMS"], img[src^="../../images/GDMS"] {
+#logo, img[src^="images/Logo/Favicon.png"], img[src^="../../images/Logo/Favicon.png"] {
     box-shadow: none;
     border-radius: 0;
 }
@@ -315,9 +318,8 @@ a {
     }
 
     #logo {
-        width: 50px;
-        height: 50px;
-        margin-top: 13px;
+        width: 190px;
+        height: 60px;
     }
 }
 
@@ -331,8 +333,8 @@ a {
     }
 
     #logo {
-        width: 40px;
-        height: 40px;
+        width: 160px;
+        height: 50px;
     }
 
 }
@@ -343,8 +345,9 @@ a {
     }
 
     #logo {
-        width: 35px;
+        width: 112px;
         height: 35px;
+        margin-top: auto;
     }
 }
 
