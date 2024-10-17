@@ -1,0 +1,16 @@
+baseURL = 'https://RRRobotics.github.io/'
+languageCode = 'en-us'
+title = 'RRRobotics'
+theme = 'plague'
+
+[params]
+    siteHeaderText = "Round Rock Robotics"
+    siteFooterText = "Powered by [Hugo](https://gohugo.io/) and the [plague](https://github.com/brianreumere/plague) theme."
+
+    colors = "default"
+
+    [params.hcard]
+        fullName = "Mitchell Abbott"
+        nickanme = "Lord Abbott"
+        city = "Round Rock"
+        region = "TX"
