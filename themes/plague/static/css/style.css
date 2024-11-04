@@ -142,6 +142,11 @@ a.nav-item:hover {
 
 .http-error {
     text-align: center;
+    font: 1.5em 'Roboto', sans-serif;
+    font-weight: bold;
+    color: #2f8f7f;
+    opacity: .6;
+    text-align: center;
 }
 
 pre, code {
